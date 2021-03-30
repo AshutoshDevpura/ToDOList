@@ -64,6 +64,7 @@ body{
   opacity: 0.6;
   pointer-events: none;
   transition: all 0.3s ease;
+  text-rendering: optimizeLegibility;
 }
 .inputField button:hover,
 .footer button:hover{
